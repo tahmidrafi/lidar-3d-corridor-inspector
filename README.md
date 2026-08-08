@@ -1,4 +1,4 @@
-# 🌲 3D Subzone LiDAR & Terrain Inspector
+# 🌲 LiDAR 3D Corridor Inspector
 
 A high-performance 3D desktop application for interactive inspection, quality control, and visual analytics of **LiDAR point clouds**, **Canopy Height Model (CHM) detected trees**, **ground-truth validation data**, **Digital Terrain Models (DTM)**, and **draped 3D vector layers**.
 
