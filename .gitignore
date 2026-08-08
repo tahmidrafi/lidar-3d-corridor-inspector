@@ -1,0 +1,23 @@
+# Local session configuration & secrets
+last_config.json
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build artifacts
+_internal/
+build/
+dist/
+*.exe
+
+# Local data & logs
+data/
+cluster.txt
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db

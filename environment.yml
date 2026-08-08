@@ -1,0 +1,15 @@
+name: gis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - open3d>=0.17.0
+  - laspy>=2.4.0
+  - lazrs-python
+  - geopandas>=0.12.0
+  - shapely>=2.0.0
+  - rasterio>=1.3.0
+  - numpy>=1.22.0
+  - pandas>=1.4.0
+  - pyyaml>=6.0
